@@ -5,7 +5,7 @@ visit the site: https://yts-hub.com/
 # Description
 The YTS Terminal Manager is an advanced, all-in-one terminal management solution built specifically for Windows PCs. Designed for network engineers, system administrators, developers, and power users, this tool provides robust support for a wide range of communication protocols and terminal types — all in a single, easy-to-use desktop application.
 
-# screenshot
+# Screenshot
 <img width="1656" height="919" alt="YTS_Terminal_manager_screen_shot" src="https://github.com/user-attachments/assets/dd8378c3-ed05-4535-ab89-f0b118bff54b" />
 
 ## Features
@@ -38,6 +38,7 @@ The YTS Terminal Manager is an advanced, all-in-one terminal management solution
 - Session Recording
 - Automatic Session Logging
 - Drag-and-Drop SSH File Transfers
+- Execute Python scripts directly inside the terminal. 
 
 ### Network Tools
 - IP / Port Scanner
@@ -47,10 +48,6 @@ The YTS Terminal Manager is an advanced, all-in-one terminal management solution
 - Wake-on-LAN
 - IPv4 / IPv6 Subnet Calculator
 
-# Download link
-https://yts-hub.com/terminal-manager/
-
-
 ### Terminal Features
 - VT100 Emulation
 - Large Scrollback Buffer
@@ -58,4 +55,7 @@ https://yts-hub.com/terminal-manager/
 - Highlight Rules
 - High-Performance Rendering Engine
 - X11 Forwarding Support
-- 
+
+# Download link
+https://yts-hub.com/terminal-manager/
+
