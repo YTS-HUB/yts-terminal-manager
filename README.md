@@ -21,7 +21,7 @@ Replaces PuTTY, WinSCP — and half your toolbox.
 
 <br>
 
-<img alt="YTS Terminal Manager main window with tabbed SSH sessions" src="screenshots/YTS_Terminal_manager_screen_shot.PNG">
+<img alt="YTS Terminal Manager main window with tabbed SSH sessions" src="screenshots/terminal-clients.PNG">
 
 </div>
 
