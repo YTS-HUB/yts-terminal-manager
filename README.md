@@ -15,13 +15,13 @@ Replaces PuTTY, WinSCP — and half your toolbox.
 [![Download](https://img.shields.io/badge/Download-yts--hub.com-6E5DF6?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://yts-hub.com/terminal-manager/)
 [![Website](https://img.shields.io/badge/Website-yts--hub.com-40D9EE?style=for-the-badge&logoColor=white)](https://yts-hub.com/)
 
-![Version](https://img.shields.io/badge/version-2.02-6E5DF6?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.08-6E5DF6?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%2864--bit%29-0FB89B?style=flat-square)
 ![Install](https://img.shields.io/badge/install-no%20extra%20runtimes-F7AB00?style=flat-square)
 
 <br>
 
-<img alt="YTS Terminal Manager main window with tabbed SSH sessions" src="screenshots/terminal-clients.png">
+<img alt="YTS Terminal Manager main window with tabbed SSH sessions" src="screenshots/YTS_Terminal_manager_screen_shot.PNG">
 
 </div>
 
@@ -37,7 +37,8 @@ window — sharing the same favourites, the same logging and the same shortcuts.
 normally scramble to install mid-job (TFTP, SYSLOG, TACACS+) are already there, one click from the
 session that needs them.
 
-> Downloads, release notes and system requirements live on the product page:
+> Download the installer from the [latest release](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)
+> or from the product page, which also has release notes and system requirements:
 > **https://yts-hub.com/terminal-manager/**
 
 ---
@@ -70,7 +71,8 @@ Paste nothing. Switch nowhere.
 * **Private if you want** — run it against a local model (Ollama, LM Studio, vLLM); nothing leaves
   your machine.
 
-Works with Anthropic Claude, OpenAI, Google Gemini, Qwen, GLM and GitHub Models. Bring your own API
+Works with Anthropic Claude, OpenAI, Google Gemini, Azure OpenAI, DeepSeek, Qwen, GLM, Grok,
+GitHub Copilot and Puter. Bring your own API
 key — a free Gemini key works out of the box, and the assistant is entirely optional.
 
 ---
@@ -80,7 +82,7 @@ key — a free Gemini key works out of the box, and the assistant is entirely op
 <table>
 <tr>
 <td width="50%"><img alt="Saved connections in folders with live search" src="screenshots/terminal-clients.png"></td>
-<td width="50%"><img alt="New connection dialog — SSH, Telnet, Serial, SFTP, FTP, SCP, RDP, Windows Shell or CMD" src="screenshots/terminal-new-connection.png"></td>
+<td width="50%"><img alt="New connection dialog — SSH, Telnet, Serial, SFTP, FTP, SCP, RDP, Web, Windows Shell, Windows CMD or AWS" src="screenshots/terminal-new-connection.png"></td>
 </tr>
 <tr>
 <td align="center"><sub><b>Favourites that scale</b> · folders, search, drag-and-drop</sub></td>
@@ -258,11 +260,13 @@ trademarks of their respective owners.</sub>
 
 <div align="center">
 
-### [⬇ Get YTS Terminal Manager — v2.02](https://yts-hub.com/terminal-manager/)
+### [⬇ Get YTS Terminal Manager — v2.08](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)
 
-**https://yts-hub.com/terminal-manager/**
+**[Latest release on GitHub](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)** ·
+**[yts-hub.com/terminal-manager](https://yts-hub.com/terminal-manager/)**
 
-Installer, release notes and changelog are all on the product page.
+Both offer the same installer. Each GitHub release lists its SHA-256; release notes and changelog
+are on the product page.
 
 </div>
 
@@ -289,8 +293,8 @@ server stack — features that would otherwise need PuTTY + WinSCP + several mor
 <details>
 <summary><b>Which AI models does the assistant support?</b></summary>
 
-Anthropic Claude, OpenAI, Google Gemini, Qwen, GLM and GitHub Models — or a fully local model via
-Ollama, LM Studio or vLLM for air-gapped environments. You bring your own API key; a free Gemini key
+Anthropic Claude, OpenAI, Google Gemini, Azure OpenAI, DeepSeek, Qwen, GLM, Grok, GitHub Copilot
+and Puter — or a fully local model via Ollama, LM Studio or vLLM for air-gapped environments. You bring your own API key; a free Gemini key
 works out of the box, and the assistant is entirely optional.
 </details>
 
