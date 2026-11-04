@@ -30,12 +30,12 @@ Replaces PuTTY, WinSCP — and half your toolbox.
 ## What it is
 
 **YTS Terminal Manager** is an all-in-one terminal management application for Windows, built for
-network engineers, system administrators, developers and power users.
+network engineers, system administrators, developers, IT and power users.
 
-The console cable, the jump host, the firewall's web UI and the file transfer all live in the same
-window — sharing the same favourites, the same logging and the same shortcuts. The services you
-normally scramble to install mid-job (TFTP, SYSLOG, TACACS+) are already there, one click from the
-session that needs them.
+Serial consoles, SSH and Telnet sessions, device web interfaces and file transfers (SFTP, FTP, SCP) 
+all open as tabs in one window. They share the same favourites, session logging and keyboard shortcuts. 
+The servers you usually have to find and install mid-job are built in: TFTP, SFTP, FTP, Syslog TACACS+ and more. 
+and they all powered with AI capabilities.
 
 > Download the installer from the [latest release](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)
 > or from the product page, which also has release notes and system requirements:
