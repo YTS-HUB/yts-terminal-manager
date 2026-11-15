@@ -15,7 +15,7 @@ Replaces PuTTY, WinSCP — and half your toolbox.
 [![Download](https://img.shields.io/badge/Download-yts--hub.com-6E5DF6?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://yts-hub.com/terminal-manager/)
 [![Website](https://img.shields.io/badge/Website-yts--hub.com-40D9EE?style=for-the-badge&logoColor=white)](https://yts-hub.com/)
 
-![Version](https://img.shields.io/badge/version-2.08-6E5DF6?style=flat-square)
+![Version](https://img.shields.io/badge/version-2.09-6E5DF6?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20%2864--bit%29-0FB89B?style=flat-square)
 ![Install](https://img.shields.io/badge/install-no%20extra%20runtimes-F7AB00?style=flat-square)
 
@@ -260,7 +260,7 @@ trademarks of their respective owners.</sub>
 
 <div align="center">
 
-### [⬇ Get YTS Terminal Manager — v2.08](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)
+### [⬇ Get YTS Terminal Manager — v2.09](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)
 
 **[Latest release on GitHub](https://github.com/YTS-HUB/yts-terminal-manager/releases/latest)** ·
 **[yts-hub.com/terminal-manager](https://yts-hub.com/terminal-manager/)**
